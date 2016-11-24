@@ -1,8 +1,0 @@
-{
-	"email_address":"examples@mailchimp.com",
-	"status":"pending",
-	"merge-fields":{
-	"FNAME":"Nate",
-	"LNAME":"Treehouse",
-	}
-} 
